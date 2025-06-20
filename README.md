@@ -27,8 +27,6 @@ The primary objective was to design a production-ready analytics dashboard that 
 
 ![image](https://github.com/user-attachments/assets/94b89588-8fac-4f83-9bbc-f098ce060eb0)
 
-The full Data Science Notebook can be found here. [[link](https://github.com/nixon-quesada/Loan-Approval-Machine-Learning/blob/main/Loan%20Approval%20Machine%20Learning/notebook/Loan%20Approval%20System.ipynb)].
-
 ### Data Structure & Initial Checks
 
 Manufacturing Line Productivity dataset structure as seen below is an excel workbook consists of 4 sheets: Line Production, Products, Downtime Factors and Line Downtime with a total of row count of 117 records.
@@ -43,8 +41,6 @@ Manufacturing Line Productivity dataset structure as seen below is an excel work
 Overview of Findings:
 The production line is experiencing significant performance challenges, primarily driven by unplanned downtimes, which account for a substantial 56% of the total operating time. Over half of these downtimes are attributed to machine failures and inventory shortages often requiring frequent machine adjustments and additionally prolonged batch changeovers both contributed to 36% of the total downtime, further compounding the issue. 
 As a result, the team is frequently required to work overtime to meet scheduled production targets, highlighting the urgent need for operational improvements.
-
-
 
 ### Insights Deep Dive
 
@@ -71,8 +67,6 @@ Moreover, Batch Changes, which rank as the second highest contributor to total d
 
 ![image](https://github.com/user-attachments/assets/b03b36c7-16ef-4c09-897a-a40472b715b0)
 
-
-  
 ### Assumptions and Caveats:
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:

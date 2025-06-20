@@ -31,7 +31,7 @@ The primary objective was to design a production-ready analytics dashboard that 
 
 Manufacturing Line Productivity dataset structure as seen below is an excel workbook consists of 4 sheets: Line Production, Products, Downtime Factors and Line Downtime with a total of row count of 117 records.
 
-![image](https://github.com/user-attachments/assets/853bd4c4-caba-4470-834e-3c5d01e27b81)
+![image](https://github.com/user-attachments/assets/e365fd61-8536-4c00-aabf-3bd0ff0885c6)
 
 
 ### Executive Summary
@@ -46,8 +46,7 @@ As a result, the team is frequently required to work overtime to meet scheduled 
 
 Over the 4-day production period, total downtime exceeded 50% of the total operational time, with the majority attributed to recurring machine failures and inventory shortages, along with several minor unplanned interruptions. Notably, 74 minutes of downtime were recorded under the “Others” category, indicating unclassified or untracked issues that may require further investigation.
 
-![image](https://github.com/user-attachments/assets/be43857b-5b81-4559-988d-be442f8a897b)
-
+![image](https://github.com/user-attachments/assets/1550a56b-4c25-419f-97c5-e3a85112dded)
 
 In addition to an unusually long planned downtime due to batch changes on August 29, and the unclassified 74 minutes of downtime, the most critical concern is the series of random machine failures observed between batch processes on August 30. Even more concerning is the recurrence of failures after machine adjustments on September 2, which strongly suggests that the equipment may be approaching end-of-life or in need of replacement.
 

@@ -21,9 +21,6 @@ Loan-Approval-Machine-Learning-Project-Learning-Classification-using-XGBoost-and
 │   └── screenshot
 ```
 
-
-![image](https://github.com/user-attachments/assets/94b89588-8fac-4f83-9bbc-f098ce060eb0)
-
 ### Project Background
 Developed as part of the Emerson x Data Analytics Philippines Challenge, this project features a dynamic and insightful dashboard built from real-world manufacturing line data.
 

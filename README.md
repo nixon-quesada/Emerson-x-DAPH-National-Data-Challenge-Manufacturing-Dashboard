@@ -20,18 +20,22 @@ Loan-Approval-Machine-Learning-Project-Learning-Classification-using-XGBoost-and
 │   ├── data analysis
 │   └── screenshot
 ```
+
+
+![image](https://github.com/user-attachments/assets/94b89588-8fac-4f83-9bbc-f098ce060eb0)
+
 ### Project Background
 Developed as part of the Emerson x Data Analytics Philippines Challenge, this project features a dynamic and insightful dashboard built from real-world manufacturing line data.
 
 The primary objective was to design a production-ready analytics dashboard that not only surfaces critical operational insights but also serves as a testament to our data analytics expertise—from data wrangling and visualization to actionable interpretation tailored for industrial decision-making.
 
-![image](https://github.com/user-attachments/assets/94b89588-8fac-4f83-9bbc-f098ce060eb0)
+![image](https://github.com/user-attachments/assets/e365fd61-8536-4c00-aabf-3bd0ff0885c6)
 
 ### Data Structure & Initial Checks
 
 Manufacturing Line Productivity dataset structure as seen below is an excel workbook consists of 4 sheets: Line Production, Products, Downtime Factors and Line Downtime with a total of row count of 117 records.
 
-![image](https://github.com/user-attachments/assets/e365fd61-8536-4c00-aabf-3bd0ff0885c6)
+![image](https://github.com/user-attachments/assets/81a24ee4-6f99-45c1-b8dd-611c44573e27)
 
 
 ### Executive Summary

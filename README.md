@@ -1,5 +1,8 @@
 # Emerson-x-DAPH-National-Data-Challenge-Manufacturing-Dashboard
 
+![image](https://github.com/user-attachments/assets/046c6208-85f1-4e01-b0b6-d517fb30386c)
+
+
 ### 📁 Project Structure
 
 ```text
